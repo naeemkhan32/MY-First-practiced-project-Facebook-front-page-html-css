@@ -1,0 +1,113 @@
+
+body{
+    background:#e6e6e6;
+}
+h1{
+        position:absolute;
+        left:180px;
+        font-size:45px;
+        color:blue;
+	font-weight:bold;
+}
+	
+        
+.fb-body{
+	position:absolute;
+	left:0px;
+	top:80px;
+	width:100%;
+	height:600px;
+	
+
+}
+#intro1{
+	left:178px;
+	top:20px;
+	font-size:20px;
+	color:#142170;
+	height:75px;
+	width:550px;
+}
+#intro2{ 
+        top:20px;
+	left:750px;
+	font-size:30px;
+	color:#000;
+	font-weight:bold;
+	height:75px;
+	width:500px;
+}
+#intro3{
+	left:750px;
+	top:60px;
+	font-size:18px;
+	color:#000;
+	height:50px;
+	width:300px;
+}
+#form{
+	top:100px;
+	left:750px;
+	font-size:20px;
+	color:#142170;
+	width:450px;
+	height:495px;
+	
+}
+#namebox{
+	width:200px;
+	height:20px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding:10px;
+	font-size:18px;
+	margin-top:8px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+}
+#mailbox{
+	width:408px;
+	height:20px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding:10px;
+	font-size:18px;
+	margin-top:8px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+}
+#r-b{
+	font-size:12px;
+	height:20px;
+	width:20px;
+}
+.button2{
+	width:200px;
+	height:40px;
+	left:750px;
+	top:625px;
+	background:green;
+	font-size:18px;
+	color:white;
+	border-radius:5px 5px 5px 5px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+	cursor:pointer;
+	outline:none;
+	
+}
+#intro4{
+	
+	font-size:12px;
+	color:gray;
+	
+}
+#intro5{
+	
+	font-size:14px;
+	color:gray;
+	
+}
